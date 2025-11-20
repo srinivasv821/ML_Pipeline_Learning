@@ -14,7 +14,7 @@ vectorizer_path = os.path.join(BASE_DIR, "models", "vectorizer.pkl")
 model = pickle.load(open(model_path, "rb"))
 vectorizer = pickle.load(open(vectorizer_path, "rb"))
 
-mlflow.set_tracking_uri("http://ec2-43-204-214-202.ap-south-1.compute.amazonaws.com:5000")
+# mlflow.set_tracking_uri("http://ec2-43-204-214-202.ap-south-1.compute.amazonaws.com:5000")
 
 class Message(BaseModel):
     text:str
