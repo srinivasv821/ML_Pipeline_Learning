@@ -1,0 +1,10 @@
+artifact_location: file:///F:/github-projects/ML-OPS%20Project/sms-spam-mlops/src/mlruns/141100668449723479/models/m-43dafe436e0d464fbc549adf763e5597/artifacts
+creation_timestamp: 1762598500715
+experiment_id: '141100668449723479'
+last_updated_timestamp: 1762598504039
+model_id: m-43dafe436e0d464fbc549adf763e5597
+model_type: null
+name: model
+source_run_id: 255177dec2a641d78c797b703f1ef053
+status: 2
+status_message: null

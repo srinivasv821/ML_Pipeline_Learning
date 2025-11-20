@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/github-projects/ML-OPS%20Project/sms-spam-mlops/src/mlruns/141100668449723479/255177dec2a641d78c797b703f1ef053/artifacts
+end_time: 1762598506458
+entry_point_name: ''
+experiment_id: '141100668449723479'
+lifecycle_stage: active
+run_id: 255177dec2a641d78c797b703f1ef053
+run_name: selective-grouse-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762598500682
+status: 3
+tags: []
+user_id: SRINIVAS

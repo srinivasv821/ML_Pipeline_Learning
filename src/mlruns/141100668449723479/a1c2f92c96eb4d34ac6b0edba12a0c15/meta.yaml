@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/github-projects/ML-OPS%20Project/sms-spam-mlops/src/mlruns/141100668449723479/a1c2f92c96eb4d34ac6b0edba12a0c15/artifacts
+end_time: 1762598443004
+entry_point_name: ''
+experiment_id: '141100668449723479'
+lifecycle_stage: active
+run_id: a1c2f92c96eb4d34ac6b0edba12a0c15
+run_name: aged-squirrel-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762598437281
+status: 3
+tags: []
+user_id: SRINIVAS

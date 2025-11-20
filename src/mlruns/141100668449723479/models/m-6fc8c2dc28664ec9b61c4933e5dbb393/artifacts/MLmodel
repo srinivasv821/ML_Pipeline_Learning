@@ -1,0 +1,14 @@
+artifact_path: file:///F:/github-projects/ML-OPS%20Project/sms-spam-mlops/src/mlruns/141100668449723479/models/m-6fc8c2dc28664ec9b61c4933e5dbb393/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-6fc8c2dc28664ec9b61c4933e5dbb393
+model_size_bytes: 179563
+model_uuid: m-6fc8c2dc28664ec9b61c4933e5dbb393
+prompts: null
+run_id: d83b86cb2f3f46988e98011da887303b
+utc_time_created: '2025-11-08 11:48:28.489551'

@@ -1,4 +1,5 @@
 [core]
     remote = s3remote
 ['remote "s3remote"']
-    url = s3://mlflow-dvc-dev-store
+    url = s3://mlflow-dvc-dev-store/dvc-store
+    endpointurl = https://s3.ap-south-1.amazonaws.com
